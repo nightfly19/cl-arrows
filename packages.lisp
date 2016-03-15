@@ -3,4 +3,7 @@
   (:export
     ;; thrushing macros
     #:->
-    #:->>))
+    #:->>
+    ;; diamond wand/spear
+    #:-<>
+    #:-<>>))
